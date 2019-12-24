@@ -13,5 +13,5 @@ function startfnc(){//関数hyoji()を1000ミリ秒間隔で呼び出す　
 
 function mes(){alert("3秒経ちました！");}
 
-function imgchange3()
-{document.getElementById('logo').src='./josai2.png';}
+function mes2(){document.getElementById('logo2').src='./image/josai2.png';}
+

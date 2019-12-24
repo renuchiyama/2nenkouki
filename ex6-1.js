@@ -1,2 +1,2 @@
 function sayhello()
-{alert('Hello,Function!');}
+{alert('Hello,ren!');}
