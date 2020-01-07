@@ -15,3 +15,11 @@ function mes(){alert("3秒経ちました！");}
 
 function mes2(){document.getElementById('logo2').src='./image/josai2.png';}
 
+var image=new Array();
+image[0]=new Image();
+image[0]=src="img/josai.png";
+image[1]=new Image();
+image[1]=src="img/josai2.png";
+var cnt=0;
+function slidesw()
+
