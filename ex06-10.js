@@ -23,3 +23,4 @@ image[1]=src="img/josai2.png";
 var cnt=0;
 function slidesw()
 
+
